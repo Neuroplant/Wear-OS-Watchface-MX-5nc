@@ -1,0 +1,10 @@
+- tried to replicate the Dashboard of a '07 MX-5 nc
+- Fuel is Batterie
+- Oil Pressue is Heart Rate
+- Coolant Tempreatue ist Batt Temperature
+- Tachometer is Weekday
+- Speedometer is Stepps (Index Numbers are 10% Steps from Stepp Goal, looks better if Goal is < 10000)
+- Turn Signals are Flashing when Watch is tilted
+- Odometer is Digital Time
+- Trip Odomater is Date
+- Always-On matches Design of the Nicght View of the Daschboard
