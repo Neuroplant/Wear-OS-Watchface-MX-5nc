@@ -1,3 +1,4 @@
+![latest_preview](https://github.com/Neuroplant/Wear-OS-Watchface-MX-5nc/assets/25515618/1bb77335-deb7-4f6e-9f18-f8b1e34127f6)
 - tried to replicate the Dashboard of a '07 MX-5 nc
 - Fuel is Batterie
 - Oil Pressue is Heart Rate
